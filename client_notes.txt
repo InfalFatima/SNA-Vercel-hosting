@@ -1,0 +1,6 @@
+Client Notes
+
+1. Access the SNA Lab website.
+2. Download the required files.
+3. Run tracert lab.local.
+4. Verify network connectivity.

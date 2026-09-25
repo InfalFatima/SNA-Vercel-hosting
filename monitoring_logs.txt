@@ -1,0 +1,6 @@
+Monitoring Logs
+
+1. Open browser DevTools.
+2. Select the Network tab.
+3. Monitor file download requests.
+4. Capture the required network traffic.

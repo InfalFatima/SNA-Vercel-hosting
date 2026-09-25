@@ -1,0 +1,6 @@
+DNS Server Instructions
+
+1. Configure the hosts file.
+2. Run ipconfig /flushdns.
+3. Test connectivity using ping lab.local.
+4. Run nslookup lab.local.

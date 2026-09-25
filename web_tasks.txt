@@ -1,0 +1,5 @@
+Web Server Tasks
+
+1. Deploy the website.
+2. Verify that the website is accessible.
+3. Maintain the shared web resources.
